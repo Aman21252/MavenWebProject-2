@@ -81,12 +81,12 @@
         <repository>
           <id>nexus</id>
           <name>KC Tech Releases Nexus Repository</name>
-          <url>http://3.142.124.9:8081/repository/Trail-Release/</url>
+          <url>http://18.191.176.99:8081/repository/Trail-Release/</url>
         </repository>
         <snapshotRepository>
           <id>nexus</id>
           <name>KC Tech Snapshot Nexus Repository </name>
-           <url>http://3.142.124.9:8081/repository/Trail-Snapshot/</url>
+           <url>http://18.191.176.99:8081/repository/Trail-Snapshot/</url>
         </snapshotRepository>
    </distributionManagement>
 	
